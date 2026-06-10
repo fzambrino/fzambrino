@@ -1,6 +1,9 @@
-## ABOUT ME
+<h1 align="center">👋 CIAO! <br> I'm Francesco Zambrino</h1>
+<p align="center">
+  <em>Computer Science student • Sports tech enthusiast • ML & CV practitioner</em>
+</p>
 
-👋 Ciao! I'm Francesco Zambrino  
+## ABOUT ME 
   
 I’m an Italian Computer Science student in my final undergraduate year. I’m passionate about sports and enjoy building data‑driven solutions around them. My main interests include Machine Learning, Deep Learning, Computer Vision, and Data Analysis — fields I’ve already explored through a dedicated project and that I’m currently developing further during my internship.
 
@@ -15,12 +18,12 @@ I’m an Italian Computer Science student in my final undergraduate year. I’m 
 ---
 
 ## Tech Stack & GitHub Stats
-![Jupyter Notebook](https://img.shields.io/badge/Jupyter_Notebook-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white)
+![Jupyter Notebook](https://img.shields.io/badge/Jupyter_Notebook-FF6B6B?style=for-the-badge&logo=jupyter&logoColor=white)
+![Python](https://img.shields.io/badge/Python-F7B801?style=for-the-badge&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/C-6BCB77?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-4D96FF?style=for-the-badge&logo=cplusplus&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-9D4EDD?style=for-the-badge&logo=html5&logoColor=white)
+![Java](https://img.shields.io/badge/Java-FF8FAB?style=for-the-badge&logo=openjdk&logoColor=white)
 
 ![Francesco's GitHub stats](https://github-readme-stats.vercel.app/api?username=fzambrino&show_icons=true&theme=tokyonight)
 
@@ -45,10 +48,12 @@ Link GitHub: [Football Injury Prediction](https://github.com/fzambrino/football-
 ---
 
 ##  Currently Working On
-I am developing a real‑time tactical analysis system for football matches, based on player tracking data extracted through computer vision. The goal is to automatically identify team formations and role assignments during a match, overcoming challenges such as dynamic player movements, role swaps, occlusions, and the need for online (real‑time) processing. The solution integrates modern detection and tracking pipelines (YOLO, SORT), spatiotemporal modeling, and state‑of‑the‑art methods from the literature to infer tactical structures from raw positional data.
+I am developing a real‑time tactical analysis system for football matches, based on player tracking data extracted through computer vision. The goal is to automatically identify team formations and role assignments during a match, overcoming challenges such as dynamic player movements, role swaps, occlusions, and the need for online (real‑time) processing. The solution integrates modern detection and tracking pipelines, spatiotemporal modeling, and state‑of‑the‑art methods from the literature to infer tactical structures from raw positional data.
 
 ---
 
 ##  📫 Contacts
-Email: fzambrino04@gmail.com  
-Instagram: [f_zambrino_](https://www.instagram.com/_francesco_z/)
+Personal Email: fzambrino04@gmail.com  
+University Email: f.zambrino@studenti.unisa.it  
+Link [LinkedIn](https://www.linkedin.com/in/francesco-zambrino-997757403/)  
+Link [Instagram](https://www.instagram.com/_francesco_z/)
