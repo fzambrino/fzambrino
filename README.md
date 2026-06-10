@@ -18,12 +18,16 @@ I’m an Italian Computer Science student in my final undergraduate year. I’m 
 ---
 
 ## Tech Stack & GitHub Stats
-![Jupyter Notebook](https://img.shields.io/badge/Jupyter_Notebook-FF6B6B?style=for-the-badge&logo=jupyter&logoColor=white)
-![Python](https://img.shields.io/badge/Python-F7B801?style=for-the-badge&logo=python&logoColor=white)
-![C](https://img.shields.io/badge/C-6BCB77?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-4D96FF?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Java](https://img.shields.io/badge/Java-FF595E?style=for-the-badge&logo=openjdk&logoColor=white)
+![C](https://img.shields.io/badge/C-FFCA3A?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-8AC926?style=for-the-badge&logo=cplusplus&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-1982C4?style=for-the-badge&logo=postgresql&logoColor=white)
+![Python](https://img.shields.io/badge/Python-6A4C93?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-FF924C?style=for-the-badge&logo=javascript&logoColor=black)
+![Dart](https://img.shields.io/badge/Dart-FF7F50?style=for-the-badge&logo=dart&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-9D4EDD?style=for-the-badge&logo=html5&logoColor=white)
-![Java](https://img.shields.io/badge/Java-FF8FAB?style=for-the-badge&logo=openjdk&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-00C49A?style=for-the-badge&logo=css3&logoColor=white)
+
 
 ![Francesco's GitHub stats](https://github-readme-stats.vercel.app/api?username=fzambrino&show_icons=true&theme=tokyonight)
 
