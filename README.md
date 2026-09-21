@@ -30,6 +30,9 @@ I’m an Italian Computer Science student in my final undergraduate year. I’m 
 
 ![Francesco's GitHub stats](https://github-readme-stats-git-masterorg.vercel.app/api?username=fzambrino&show_icons=true&theme=tokyonight)
 
+![Francesco's GitHub stats](https://github-readme-stats-one.vercel.app/api?username=fzambrino&show_icons=true&theme=tokyonight)
+
+
 ![Francesco's GitHub stats](https://github-readme-stats.vercel.app/api?username=fzambrino&show_icons=true&theme=tokyonight)
 
 ---
