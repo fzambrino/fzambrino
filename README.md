@@ -28,6 +28,7 @@ I’m an Italian Computer Science student in my final undergraduate year. I’m 
 ![HTML5](https://img.shields.io/badge/HTML5-9D4EDD?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-00C49A?style=for-the-badge&logo=css3&logoColor=white)
 
+![Francesco's GitHub stats](https://github-readme-stats-git-masterorg.vercel.app/api?username=fzambrino&show_icons=true&theme=tokyonight)
 
 ![Francesco's GitHub stats](https://github-readme-stats.vercel.app/api?username=fzambrino&show_icons=true&theme=tokyonight)
 
